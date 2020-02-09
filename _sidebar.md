@@ -2,4 +2,8 @@
 - [环境与安装](installation.md)
 - [pyETRC主程序](/main/)
   - [基本功能](/main/overview.md)
+  - [高级数据管理](main/data.md)
+  - [高级调整技巧](main/modify.md)
+  - [运行图审阅](main/review.md)
+  - 
 - [pyETRC路网管理模块](/railnet/)
