@@ -20,7 +20,7 @@
 
 2. 下列的`Python`第三方库，都可以用`pip`安装。
 
-   * `PyQt5`。必须。推荐使用`5.10.1`版本。
+   * `PyQt5`。必需。
    * `xlwt`。可选。在涉及输出`.xls`的操作中需要用到。
    * `xlrd`。可选。在涉及读取.`xls`的操作中需要用到。
    * `xpinyin`。可选。在本系统`2.3.0`版本之前的线路数据库排序中用到。
@@ -35,7 +35,7 @@
 在shell中依次执行以下命令，无报错即可。
 
 ```powershell
-pip install PyQt5==5.10.1
+pip install PyQt5
 pip install xlwt
 pip install xlrd
 pip install xpinyin
